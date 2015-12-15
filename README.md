@@ -3,7 +3,7 @@ report
 
 关于 SegmentFault 旗下产品的 bug 和需求建议，请统一提交到该项目 issue。
 
-所有 report 请看：https://github.com/SegmentFault/report/issues
+所有 report 请看：https://github.com/SegmentFault/report/labels/SFv4
 
 Bug 提交格式
 ------
